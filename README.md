@@ -1,9 +1,28 @@
-# Side-Projects
-Side projects are related here
+# Projects with no codes to show
+Projects with no possibilities to show the code are related here (too old or private)
 
 ## Web interface linked to a robot using bootstrap, Jquery , Ajax , chartJS and JEE
 
 http://imgur.com/a/O3s36 
+
+## FULL REST API 
+
+http://www.dailymotion.com/video/k44ZFBgRSYF1exf1qvm
+
+Features:
+-secure (not strong) routes via req.session
+-Exeternal API call to a drug Database 
+
+Back-end:
+-Node
+-Mongodb
+-Sails
+-Grunt
+
+Front-end
+-Jade
+-Sass
+-Bower
 
 ## UX project
 
