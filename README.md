@@ -7,7 +7,18 @@ http://imgur.com/a/O3s36
 
 ## FULL REST API 
 
+Project i had with MEDEO, a start up oriented towards the medical field.
+
 http://www.dailymotion.com/video/k44ZFBgRSYF1exf1qvm
+
+Our goal was to built a webservice capable of managing :
+- patients
+- files
+- medication
+- consultations
+- antecedents
+
+Moreover it needed to receive data from connected instruments (Weight, Blood pressure ..)
 
 Features:
 -secure (not strong) routes via req.session
